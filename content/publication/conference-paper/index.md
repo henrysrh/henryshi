@@ -46,7 +46,6 @@ projects:[]
 
 
 slides: ""
-
 ---
 
 {{% callout note %}}
