@@ -45,25 +45,7 @@ interests:
   - Cultural Economy
   - Development Economics
 
-education:
-  
-  - area: 
-    institution: 
-    date_start: 
-    date_end: 
-    summary: |
-      GPA: 
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: B.A. Business Administration
-    institution: Sun Yat-Sen University
-    date_start: 2022-09-01
-    date_end: 2026-07-01
-    summary: |
-      GPA: 3.7/4.0
       
 
 work:
@@ -90,47 +72,14 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+
 
 languages:
   - name: English
-    percent: 100
+    percent: 
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
