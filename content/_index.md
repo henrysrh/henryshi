@@ -46,7 +46,7 @@ sections:
     id: papers
     content:
       title: Selected Papers
-      text: "Shi, R., & Chen, P. (2025, August 21). Confucianism and Enterprise Assumption of Risk. https://doi.org/10.31235/osf.io/abhse_v2"
+      text: ""
     design:
       view: citation
   - block: cta-card
