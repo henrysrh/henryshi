@@ -33,12 +33,9 @@ publication_short: In *ICW*
 
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.5555/123456
+
 
 
 
