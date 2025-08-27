@@ -1,51 +1,69 @@
 ---
-title: 'Battling for Housing Value? The Nexus Between U.S. Presidential Elections and County-Level Housing Market Prices'
+title: 'An example conference paper'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Robert Ford
 
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-
-
-date: '2025-07-01T00:00:00Z'
+date: '2013-07-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2025-08-01T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Editorial review, Swiss Political Science Review
-publication_short: Editorial review, Swiss Political Science Review
+publication: In *Hugo Blox Builder Conference*
+publication_short: In *ICW*
 
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
+tags:
+  - Large Language Models
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
-
+# Standard identifiers for auto-linking
+hugoblox:
+  ids:
+    doi: 10.5555/123456
 
 # Custom links
 links:
-  - type: preprint doi
-    url: "https://doi.org/10.31235/osf.io/d9tvz_v2"
+  - type: pdf
+    url: ""
+  - type: code
+    url: https://github.com/HugoBlox/hugo-blox-builder
+  - type: dataset
+    url: https://github.com/HugoBlox/hugo-blox-builder
 
 
 
 
-:
-projects:[]
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - example
 
 
-
-slides: ""
 ---
 
 {{% callout note %}}
