@@ -45,9 +45,14 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Selected Papers
+      title:  Papers
       text: ""
-
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
