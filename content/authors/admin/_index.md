@@ -111,5 +111,5 @@ awards:
 
 ## About Me
 
- I ampassionate about political economy, IDE and cultural economy, particularly interested in how democratic institutions(elections e.g.), cultural values, and global economic flows shape public policy, long-term
+ I am passionate about political economy, IDE and cultural economy, particularly interested in how democratic institutions(elections e.g.), cultural values, and global economic flows shape public policy, long-term
  development and national preference.  I seek to explore the institutional foundations of prosperity and contribute to evidence-based policymaking in an increasingly interconnected world.
