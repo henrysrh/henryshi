@@ -54,7 +54,6 @@ sections:
     design:
       view: citation
    - block: collection
-    id: news
     content:
       title: Recent News
       subtitle: ''
