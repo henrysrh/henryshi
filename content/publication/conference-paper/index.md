@@ -6,7 +6,7 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+
 
 # Author notes (optional)
 author_notes:
@@ -43,14 +43,8 @@ hugoblox:
   ids:
     doi: 10.5555/123456
 
-# Custom links
-links:
-  - type: pdf
-    url: ""
-  - type: code
-    url: https://github.com/HugoBlox/hugo-blox-builder
-  - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
+
+
 
 
 
