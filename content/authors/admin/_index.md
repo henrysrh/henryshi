@@ -6,8 +6,8 @@ title: Ruihan "Henry" Shi
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: 
-last_name: 
+first_name: Ruihan
+last_name: Shi
 
 # Pronouns (optional)
 pronouns: 
