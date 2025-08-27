@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      title: Interns
+      title: Interns 
       username: admin
     design:
       # Hugo date format
