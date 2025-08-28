@@ -60,29 +60,29 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Finance Intern
+    company_name: China Everbright Bank
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2025-02-01
+    date_end: 2020-02-28
+  - position: Market Research Intern
+    company_name: Golden Education Group, Guangzhou
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-  - position: Backend Software Engineer
-    company_name: X
+    date_start: 2023-08-01
+    date_end: 2023-11-01
+  - position: Research Intern
+    company_name: Hualu IT co., ltd, Guangzhou
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-11-01
+    date_end: 2023-01-01
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Participated in the daily work of the project team and actively assisted team members in completing various tasks.
+      - Collected, organized, and analyzed relevant data about real estate complaints to government to provide support and suggestions.
+      - Assisted in writing and editing company documents and reports to ensure their accuracy and completeness.
 
 
 
