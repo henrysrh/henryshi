@@ -78,15 +78,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Travelling
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Indie films
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: BP debate
         description: ''
         percent: 80
         icon: camera
