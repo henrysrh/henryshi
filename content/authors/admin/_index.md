@@ -112,7 +112,7 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Honorable Award, SYSU Business School 2nd Undergraduate Thesis Competition
-    date: '2023-11-25'
+    date: '2025'
     awarder: SYSU Business School
   - title: Semi-Finalist, Kapok Cup British Parliamentary (BP) Debate Competition
     date: '2023-07-01'
