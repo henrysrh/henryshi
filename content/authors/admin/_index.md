@@ -49,23 +49,23 @@ interests:
       
 
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Intern
+    company_name: The Guangzhou Institue of GBA, Guangzhou
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-12-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Participated in many large-scale academic annual meetings, political and economic forums and wrote relevant reports (2024Guangzhou Forum exp.)
+      - Collected research data and produced visual charts for analysis
+      - Reviewed scholar's speeches
   - position: Finance Intern
-    company_name: China Everbright Bank
+    company_name: China Everbright Bank, Zhengzhou
     company_url: ''
     company_logo: ''
     date_start: 2025-02-01
-    date_end: 2020-02-28
+    date_end: 2025-02-28
   - position: Market Research Intern
     company_name: Golden Education Group, Guangzhou
     company_url: ''
