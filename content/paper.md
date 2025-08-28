@@ -15,7 +15,9 @@ sections:
       title: '📚 Papers'
       subtitle: ''
       text: |-
-        I work hard to explore interactions between society and economics. In political economy and development economics, I track US/TW/HK elections and give economic analysis; I also focus on social movements like feminism development in China. In cultural economics, I care about social values and traditional culture's economic influence. My aim is to find applicable ways of peaceful evolution and introduce democratic solutions to economic prosperity. 
+        1. Shi, R. (2025). Battling for Housing Value? The Nexus Between U.S. Presidential Elections and County-Level Housing Market Prices. editorial review, Swiss Political Science Review (preprint version available at SocArcXiv doi: https://doi.org/10.31235/osf.io/d9tvz_v2)
+
+        2. Shi, R., & Chen, P. (2025). Confucianism and Enterprise Assumption of Risk. under review, The Journal of Risk Management and Insurance (preprint version available at SocArcXiv doi: https://doi.org/10.31235/osf.io/abhse_v2)
     design:
       view: citation
 
