@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruihan "Henry" Shi 
+title: Ruihan "Henry" Shi
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -49,43 +49,28 @@ interests:
       
 
 work:
-  - position: Research Intern
-    company_name: The Guangzhou Institue of GBA, Guangzhou
+  - position: Director of Cloud Infrastructure
+    company_name: GenCoin
     company_url: ''
     company_logo: ''
-    date_start: 205-03-01
+    date_start: 2021-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Participated in many large-scale academic annual meetings, political and economic forums and wrote relevant reports (2024Guangzhou Forum exp.)
-      - Collected research data and produced visual charts for analysis
-      - Reviewed scholar's speeches
-  - position: Finance Intern
-    company_name: China Everbright Bank, Zhengzhou
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Backend Software Engineer
+    company_name: X
     company_url: ''
     company_logo: ''
-    date_start: 2025-02-01
-    date_end: 2025-2-28
-  - position: Market Research Intern
-    company_name: Golden Education Group, Guangzhou
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-08-01
-    date_end: 2023-11-01
-  - position: Research Intern
-    company_name: Hualu Information Technology co., ltd., Guangzhou
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-11-01
-    date_end: 2023-01-01
-    summary: |2-
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
       Responsibilities include:
-      - Participated in the daily work of the project team and actively assisted team members in completing various tasks.
-      - Collected, organized, and analyzed relevant data about real estate complaints to government to provide support and suggestions.
-      - Assisted in writing and editing company documents and reports to ensure their accuracy and completeness.
-   
-
-
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 
 skills:
@@ -93,15 +78,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Travelling
+      - name: Hiking
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Indie films
+      - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Debate
+      - name: Photography
         description: ''
         percent: 80
         icon: camera
