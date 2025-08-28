@@ -111,18 +111,18 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
+  - title: Honorable Award, SYSU Business School 2nd Undergraduate Thesis Competition
     date: '2023-11-25'
-    awarder: Coursera
-  - title: Blockchain Fundamentals
+    awarder: SYSU Business School
+  - title: Semi-Finalist, Kapok Cup British Parliamentary (BP) Debate Competition
     date: '2023-07-01'
-    awarder: edX
-  - title: 'Object-Oriented Programming in R'
+    awarder: SCUT SFL
+  - title: Champion, 2023 SYSU Business-tourism School Tournament MD
     date: '2023-01-21'
-    awarder: datacamp
-  - title: 'Object-Oriented Programming in R'
+    awarder: SYSU Business School& STM
+  - title: SYSU Second-class Scholarship
     date: '2023-01-21'
-    awarder: datacamp
+    awarder: SYSU
 
 ---
 
