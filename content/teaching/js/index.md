@@ -1,5 +1,5 @@
 ---
-title: Learn JavaScript
+title: More about me
 type: docs
 math: false
 image:
