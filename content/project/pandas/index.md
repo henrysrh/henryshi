@@ -6,6 +6,10 @@ links:
 
 ---
 
+Research Assistant, Prof. Xianxiang Xu, SYSU
+
+07/2024- 08/2024
+
 I went to NINGXIA province in person for realistic and firsthand field research.
 Participated in team discussions, assisting in the formulation of research frameworks, methods, and plans.
 Conducted field research, collected data from enterprises and government departments, and ensured data quality.
