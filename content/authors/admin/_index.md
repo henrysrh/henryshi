@@ -53,7 +53,7 @@ work:
     company_name: The Guangzhou Institue of GBA, Guangzhou
     company_url: ''
     company_logo: ''
-    date_start: 2024-12-01
+    date_start: 205-03-01
     date_end: ''
     summary: |2-
       Responsibilities include:
