@@ -1,15 +1,15 @@
 ---
-title: PyTorch
-date: 2023-10-26
-links:
-  - type: site
-    url: https://github.com/pytorch/pytorch
-tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+title: Research on the survival and development of individual industrial and commercial households in Guangdong Province
+
+
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Research Assistant, Prof. Xianxiang Xu, SYSU
+
+10/2024- 11/2024
+
+I Contacted the merchant to visit and get first-hand data;
+Assisted the project team in data collation;
+Data summarized and combined according to the guidelines;
 
 <!--more-->
