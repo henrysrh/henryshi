@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: Self-writings& Events
 summary: My courses
 type: landing
 
