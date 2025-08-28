@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruihan "Henry" Shi
+title: Ruihan "Henry" Shi 
 
 # Name pronunciation (optional)
 name_pronunciation: 
