@@ -89,7 +89,10 @@ work:
 
 
 skills:
-  - items:
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
       - name: Travelling
         description: ''
         percent: 60
