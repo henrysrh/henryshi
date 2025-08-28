@@ -120,9 +120,7 @@ awards:
   - title: Champion,2023 SYSU Business-tourism School Tournament MD
     date: '2023'
     awarder: SYSU STM& Business School
-  - title: SYSU Second-class Scholarship
-    date: '2024'
-    awarder: SYSU 
+
 ---
 
 ## About Me
