@@ -18,7 +18,7 @@ sections:
       button:
         - text:  CV
           url: uploads/resume.pdf
-        - text: love
+        - text: love 
           url: www.baidu.com
     design:
       css_class: dark
