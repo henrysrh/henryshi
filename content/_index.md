@@ -18,8 +18,6 @@ sections:
       buttons:
         - text:  CV
           url: uploads/resume.pdf
-        - text:  CV2
-          url: uploads/resume.pdf
     design:
       css_class: dark
       # Avatar customization
