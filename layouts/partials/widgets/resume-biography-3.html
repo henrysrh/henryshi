@@ -1,0 +1,21 @@
+<div class="biography-widget">
+
+  {{ with .Params.avatar }}
+    <img src="{{ . | relURL }}" alt="Avatar" class="avatar">
+  {{ end }}
+
+  {{ with .Params.text }}
+    <p>{{ . | markdownify }}</p>
+  {{ end }}
+
+  {{ with .Params.buttons }}
+    <div class="biography-buttons">
+      {{ range . }}
+        <a href="{{ .url }}" class="btn btn-primary" target="_blank" rel="noopener">
+          {{ .text }}
+        </a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+</div>
