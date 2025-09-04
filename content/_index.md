@@ -18,8 +18,10 @@ sections:
       button:
         text:  CV
         url: uploads/resume.pdf
+    design:
+      css_class: dark
       button:
-        text:  CV
+        text:  CV2
         url: uploads/resume.pdf
     design:
       css_class: dark
