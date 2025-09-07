@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'RAs&TAs'
 date: 2024-05-19
 type: landing
 
@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Research Projects
-      text:  Here are economic-related research projects that I have worked on over the years.
+      title: Research Projects& Teaching Assistants
+      text:  Here are my economic-related RA/TA experiences over the years.
       filters:
         folders:
           - project
