@@ -23,7 +23,7 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 Working Paper'
+      title: '📚 Working Papers'
       subtitle: ''
       text: |-
         1. under discussion
