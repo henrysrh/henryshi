@@ -21,6 +21,14 @@ sections:
     design:
       view: citation
 
+  - block: markdown
+    content:
+      title: '📚 Working Paper'
+      subtitle: ''
+      text: |-
+        1. under discussion
+    design:
+      view: citation
 
 
 ---
