@@ -1,6 +1,6 @@
 ---
 title: Research on the survival and development of individual industrial and commercial households in Guangdong Province
-
+date: 2024-10-01
 
 ---
 
