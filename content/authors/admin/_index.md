@@ -6,7 +6,7 @@ title: Ruihan "Henry" Shi
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Ruihan
+first_name: Ruihan "Henry" 
 last_name: Shi
 
 # Pronouns (optional)
