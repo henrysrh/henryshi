@@ -15,9 +15,9 @@ sections:
       title: '📚 Papers'
       subtitle: ''
       text: |-
-        1. Shi, R. (2025). Battling for Housing Value? The Nexus Between U.S. Presidential Elections and County-Level Housing Market Prices. under review, Swiss Political Science Review (preprint version available at SocArcXiv doi: https://doi.org/10.31235/osf.io/d9tvz_v2)
+        1. Shi, R. (2025). Battling for Housing Value? The Nexus Between U.S. Presidential Elections and County-Level Housing Market Prices. Under Review, Swiss Political Science Review (preprint version available at SocArcXiv doi: https://doi.org/10.31235/osf.io/d9tvz_v2)
 
-        2. Shi, R., & Chen, P. (2025). Confucianism and Enterprise Assumption of Risk. under review, The Journal of Risk Management and Insurance (preprint version available at SocArcXiv doi: https://doi.org/10.31235/osf.io/abhse_v2)
+        2. Shi, R., & Chen, P. (2025). Confucianism and Enterprise Assumption of Risk. Forthcoming (in December 2025), The Journal of Risk Management and Insurance (preprint version available at SocArcXiv doi: https://doi.org/10.31235/osf.io/abhse_v2)
     design:
       view: citation
 
