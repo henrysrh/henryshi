@@ -13,6 +13,6 @@ main:
   - name: RAs&TAs
     url: projects/
     weight: 30
-  - name: Self-writings& Events
+  - name: More about me
     url: teaching/
     weight: 40
