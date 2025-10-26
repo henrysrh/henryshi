@@ -1,3 +1,4 @@
+---
 title: Hobbies and Interests
 type: docs
 math: false
