@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: teaching
     content:
-      title: Self-writings& Events
+      title: More about me
       filters:
         folders:
           - teaching
