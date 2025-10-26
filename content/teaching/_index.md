@@ -1,5 +1,5 @@
 ---
-title: Self-writings& Events
+title: More about me
 summary: My courses
 type: landing
 
