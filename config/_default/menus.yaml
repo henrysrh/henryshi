@@ -10,15 +10,9 @@ main:
   - name: Papers
     url: paper/
     weight: 11
-  - name: Experience
-    url: experience/
-    weight: 20
   - name: RAs&TAs
     url: projects/
     weight: 30
   - name: Self-writings& Events
     url: teaching/
-    weight: 40
-  - name: Stuff
-    url: stuff/
     weight: 40
