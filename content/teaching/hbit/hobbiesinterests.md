@@ -9,7 +9,7 @@ image:
 
 I mainly have four hobbies and interests: **Travelling**, **Indie Films&Music**, **BP Debate** and **Election Tracking**.
 
-**Travelling**: So far(till 2025) I've been to 13 countries and 27 provincial districts in China. Countries include: *KR, TH, RU, FR, DE, BE, CH, VA, AT, IT, SG, CN and MY*. I am interested in both natural and cultural landscapes, and I appreciate cross-cultural commnuication.
+**Travelling**: So far(till 2025) I've been to 13 countries and 27 Chinese provincial districts. Countries include: *KR, TH, RU, FR, DE, BE, CH, VA, AT, IT, SG, CN and MY*. I am interested in both natural and cultural landscapes, and I appreciate cross-cultural commnuication.
 
 **Indie Films&Music**: Favorite artists include: *Quentin Tarantino, Peter Jackson*(for films) and *WastedLaika, Tayu Lo*(for music) etc.
 
