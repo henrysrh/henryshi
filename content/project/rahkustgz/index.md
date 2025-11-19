@@ -1,0 +1,12 @@
+---
+title: Research in Social Hub at HKUST-GZ
+date: 2025-11-19
+---
+
+Research Assistant, Asst. Prof. Xin Wang, HKUST-GZ
+
+11/2025- present
+
+I joined Dr. Wang's team dealing with corporate researches.
+
+<!--more-->
