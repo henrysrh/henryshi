@@ -1,5 +1,5 @@
 ---
-title: National Natural Science Foundation of China Major Research Project "Research on the Optimization of Business Environment Driven by Modern Information Technology"
+title: NSFC Major Research Project "Research on the Optimization of Business Environment Driven by Modern Information Technology"
 links:
   - type: site
     url: https://mp.weixin.qq.com/mp/homepage?__biz=MzAxODc0NjE5NA==&hid=1&sn=3f291a24287f7d5556b584eee3e3cfa8&scene=18#wechat_redirect
