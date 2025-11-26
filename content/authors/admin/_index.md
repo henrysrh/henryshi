@@ -23,7 +23,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: henryshi712@gmail.com; shiruihan10712@foxmail.com
+role: shirh8@mail2.sysu.edu.cn; shiruihan10712@foxmail.com
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
