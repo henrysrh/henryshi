@@ -21,7 +21,7 @@ sections:
       is_education_first: false
   - block: resume-awards
     content:
-      title: Selected Awards& Scholarship
+      title: Selected Awards&Scholarships
       username: admin
 
 ---
