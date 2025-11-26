@@ -52,40 +52,14 @@ interests:
       
 
 work:
-  - position: Research Intern
-    company_name: The Guangzhou Institue of GBA, Guangzhou
+  - position: See LinkedIn
+    company_name: 
     company_url: ''
     company_logo: ''
-    date_start: 2024-12-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Participated in many large-scale academic annual meetings, political and economic forums and wrote relevant reports (2024Guangzhou Forum exp.)
-      - Collected research data and produced visual charts for analysis
-      - Reviewed scholar's speeches
-  - position: Finance Intern
-    company_name: China Everbright Bank, Zhengzhou
-    company_url: ''
-    company_logo: ''
-    date_start: 2025-02-01
-    date_end: 2025-02-28
-  - position: Market Research Intern
-    company_name: Golden Education Group, Guangzhou
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-08-01
-    date_end: 2023-11-01
-  - position: Research Intern
-    company_name: Hualu IT co., ltd, Guangzhou
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-11-01
-    date_end: 2023-01-01
+    date_start: 
+    date_end: 
     summary: |
-      Responsibilities include:
-      - Participated in the daily work of the project team and actively assisted team members in completing various tasks.
-      - Collected, organized, and analyzed relevant data about real estate complaints to government to provide support and suggestions.
-      - Assisted in writing and editing company documents and reports to ensure their accuracy and completeness.
+
 
 
 
