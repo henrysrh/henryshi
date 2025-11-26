@@ -40,6 +40,9 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-2719-3302
 
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?hl=en&user=hnjf1u0AAAAJ
+
 interests:
   - Political Economy
   - Cultural Economy
