@@ -51,14 +51,6 @@ interests:
 
       
 
-work:
-  - position: See LinkedIn
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: 
-    summary: |
 
 
 
