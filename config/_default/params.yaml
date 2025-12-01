@@ -8,6 +8,9 @@ appearance:
   mode: system
   color: purple
 
+theme:
+  background: "bg-zinc-50" 
+  
 # SEO
 marketing:
   seo:
