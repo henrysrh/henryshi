@@ -27,7 +27,7 @@ role: shirh8@mail2.sysu.edu.cn; shiruihan10712@foxmail.com
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Sun Yat-Sen University
+  - name: Sun Yat-Sen University; RA at Hong Kong University of Science and Technology-Guangzhou
     url: https://www.sysu.edu.cn/index.htm
 
 # Social network links
