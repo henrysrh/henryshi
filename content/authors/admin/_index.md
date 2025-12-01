@@ -27,8 +27,8 @@ role: shirh8@mail2.sysu.edu.cn; shiruihan10712@foxmail.com
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Sun Yat-Sen University; RA at Hong Kong University of Science and Technology-Guangzhou
-    url: https://www.sysu.edu.cn/index.htm
+  - name: RA, HKUST(GZ)
+    url: https://www.hkust-gz.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
