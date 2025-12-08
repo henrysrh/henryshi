@@ -27,7 +27,7 @@ role: shirh8@mail2.sysu.edu.cn; shiruihan10712@foxmail.com
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RA, HKUST(GZ)
+  - name: RA(FT), HKUST(GZ)
     url: https://www.hkust-gz.edu.cn/
 
 # Social network links
