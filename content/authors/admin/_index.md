@@ -80,10 +80,10 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: SYSU Second-class Scholarship
+  - title: SYSU Scholarship
     date: '2024-11-21'
     awarder: SYSU
-  - title: SYSU Third-class Scholarship
+  - title: SYSU Scholarship
     date: '2025-09-20'
     awarder: SYSU
   - title: Honorable Award, SYSU Business School 2nd Undergraduate Thesis Competition
