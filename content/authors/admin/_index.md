@@ -46,7 +46,8 @@ profiles:
 interests:
   - Political Economy
   - Cultural Economy
-  - Development Economics
+  - IDE
+  - Political-related IB and Strategy
 
 
       
@@ -100,5 +101,5 @@ awards:
 
 ## About Me
 
- I am passionate about political economy, IDE and cultural economy, particularly interested in how democratic institutions(elections e.g.), cultural values, and global economic flows shape public policy, long-term
+ I am passionate about political/cultural economy, IDE and political-related IB/strategy, particularly interested in how democratic institutions(elections e.g.), cultural values, and global economic flows shape public policy, long-term
  development and national preference.  I seek to explore the institutional foundations of prosperity and contribute to evidence-based policymaking in an increasingly interconnected world.
