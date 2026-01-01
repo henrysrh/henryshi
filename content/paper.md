@@ -26,7 +26,10 @@ sections:
       title: '📚 Working Papers'
       subtitle: ''
       text: |-
-        1. under discussion
+        1.  **Shi, R**, & Gao, Z. The Impact of Chinese Health Insurance on the Well-being of Freelancers
+        2.  **Shi, R**. Research on Brand Building Strategies for University Cultural and Creative Products Economy: A Case Study of Sun Yat-sen University
+        3.  **Shi, R**. The Conceptual, Technological, and Social Practical Development of AI: A Qualitative Study Based on the Case of China’s AI Development
+        4.  Under discussion with Asst. Prof. X. Wang and Asst. Prof. Z. Dong
     design:
       view: citation
 
