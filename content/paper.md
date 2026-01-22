@@ -19,7 +19,7 @@ sections:
 
     2. **Shi, R.**, & Chen, P. (2025). Confucianism and Enterprise Assumption of Risk. *The Journal of Risk Management and Insurance*, 29(2), 22–59. [**[PDF]**](https://jrmi.au.edu/index.php/jrmi/article/view/300/195)
     
-    3. **Shi, R**. (2026). Research on Brand Building Strategies for University Cultural and Creative Products Economy: A Case Study of Sun Yat-sen University. *SSRU International Journal of Management Science*. Forthcoming
+    3. **Shi, R**. (2026). Research on Brand Building Strategies for University Cultural and Creative Products Economy-- A Case Study of Sun Yat-sen University. *SSRU International Journal of Management Science*. Forthcoming
 
 
 
