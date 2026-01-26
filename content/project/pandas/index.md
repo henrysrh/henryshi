@@ -1,10 +1,14 @@
 ---
 title: Research Assistantships
-
 date: 2026-01-26
 ---
 
 
+
+
+Research Assistant, Asst. Prof. Xin Wang, HKUST(GZ).    11/2025- 07/2026
+
+I joined Dr. Wang's team in IPE Thrust, SOCH at HKUST(GZ) as a full-time RA dealing with corporate researches and co-operating in political-related exploration.
 
 
 
