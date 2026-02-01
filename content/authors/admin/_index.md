@@ -101,5 +101,6 @@ awards:
 
 ## About Me
 **Important Update Note: To improve readability and website quality, [Google Sites](https://sites.google.com/view/henryshi/about) at https://sites.google.com/view/henryshi/about has been launched as the newest website. While facing mainland China's internet censorship, this website can be a substitution. But be aware that this website's update may be delayed.**
+
  I am passionate about political/cultural economy, IDE and political-related IB/strategy, particularly interested in how democratic institutions(elections e.g.), cultural values, and global economic flows shape public policy, long-term
  development and national preference.  I seek to explore the institutional foundations of prosperity and contribute to evidence-based policymaking in an increasingly interconnected world.
