@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text:  CV
-        url: uploads/resume.pdf
+        url: https://drive.google.com/file/d/1V4Cy2P8NNqXzOsNnvmqeZeApxiq8wv5G/view
     design:
       css_class: dark
       # Avatar customization
@@ -39,7 +39,7 @@ sections:
       title: '📚 My Research Focus'
       subtitle: ''
       text: |-
-        I work hard to explore interactions between society and economics. In political economy and development economics, I track US/TW/HK elections and give economic analysis; I also focus on social movements like feminism development in China. In cultural economics, I care about social values and traditional culture's economic influence. In political-related IB/strategy, I manage to find out corporate reactions on political issues. My aim is to find applicable ways of peaceful evolution and introduce democratic solutions to economic prosperity. 
+        See https://sites.google.com/view/henryshi/about 
     design:
       columns: '1'
 
