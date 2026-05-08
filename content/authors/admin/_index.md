@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ruihan "Henry" Shi
+title: Henry Ruihan Shi
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -23,19 +23,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: shirh8@mail2.sysu.edu.cn; shiruihan10712@foxmail.com
+role: henryshi@uchicago.edu
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: RA(FT), HKUST(GZ)
-    url: https://www.hkust-gz.edu.cn/
+  - name: See https://sites.google.com/view/henryshi/about
+    url: https://sites.google.com/view/henryshi/about 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/ruihan-henry-shi-2931b8342
+    url: https://www.linkedin.com/in/henry-ruihan-shi-2931b8342
 
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-2719-3302
@@ -44,10 +44,7 @@ profiles:
     url: https://scholar.google.com/citations?hl=en&user=hnjf1u0AAAAJ
 
 interests:
-  - Political Economy
-  - Cultural Economy
-  - IDE
-  - Political-related IB and Strategy
+  - See https://sites.google.com/view/henryshi/about
 
 
       
@@ -100,7 +97,5 @@ awards:
 ---
 
 ## About Me
-**(Important Update Note: To improve readability and website quality, Since Feb.2026 [Google Sites](https://sites.google.com/view/henryshi/about) at https://sites.google.com/view/henryshi/about has been launched as the newest website. While facing mainland China's internet censorship, this website can be a substitution. But be aware that this website's update may be delayed.)**
+**(Important Update Note: Since May.2026 [Google Site](https://sites.google.com/view/henryshi/about) at https://sites.google.com/view/henryshi/about will be the new website for update. To maintain information accuracy, please visit my Google Site for details. This webiste will be no longer updated, while facing restrictions like mainland China's internet block, you can contact me via email for information.)**
 
- I am passionate about political/cultural economy, IDE and political-related IB/strategy, particularly interested in how democratic institutions(elections e.g.), cultural values, and global economic flows shape public policy, long-term
- development and national preference.  I seek to explore the institutional foundations of prosperity and contribute to evidence-based policymaking in an increasingly interconnected world.
