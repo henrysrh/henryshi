@@ -36,10 +36,10 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research Focus'
+      title: '.'
       subtitle: ''
       text: |-
-        See https://sites.google.com/view/henryshi/about 
+   .
     design:
       columns: '1'
 
