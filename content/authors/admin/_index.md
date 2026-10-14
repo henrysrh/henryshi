@@ -27,24 +27,24 @@ role: henryshi@uchicago.edu
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: See https://sites.google.com/view/henryshi/about
-    url: https://sites.google.com/view/henryshi/about 
+  - name: .
+    url: .
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
 
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/henry-ruihan-shi-2931b8342
+    url: .
 
   - icon: academicons/orcid
-    url: https://orcid.org/0009-0005-2719-3302
+    url: .
 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?hl=en&user=hnjf1u0AAAAJ
+    url: .
 
 interests:
-  - See https://sites.google.com/view/henryshi/about
+  - .
 
 
       
@@ -78,24 +78,24 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: SYSU Scholarship
+  - title: .
     date: '2024-11-21'
-    awarder: SYSU
-  - title: SYSU Scholarship
+    awarder: .
+  - title: .
     date: '2025-09-20'
-    awarder: SYSU
-  - title: Honorable Award, SYSU Business School 2nd Undergraduate Thesis Competition
+    awarder: .
+  - title: .
     date: '2025-04-01'
-    awarder: SYSU Business School
-  - title: Semi-Finalist, Kapok Cup British Parliamentary (BP) Debate Competition
+    awarder: .
+  - title: .
     date: '2023-07-01'
-    awarder: SCUT SFL
-  - title: Champion, 2023 SYSU Business-tourism School Tournament MD
+    awarder: .
+  - title: .
     date: '2023-01-21'
-    awarder: SYSU Business School& STM
+    awarder: .
 
 ---
 
 ## About Me
-**(Important Update Note: Since May.2026 [Google Site](https://sites.google.com/view/henryshi/about) at https://sites.google.com/view/henryshi/about will be the new website for update. To maintain information accuracy, please visit my Google Site for details. This webiste will be no longer updated, while facing restrictions like mainland China's internet block, you can contact me via email for information.)**
+**Visit [New Site](https://www.henryshi.com) for updates.**
 
