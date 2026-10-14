@@ -1,10 +1,10 @@
 ---
-title: Teaching Assistantships
+title: .
 date: 2025-09-01
 
 ---
 
-See https://sites.google.com/view/henryshi/about
+.
 
 
 <!--more-->
