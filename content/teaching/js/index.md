@@ -1,5 +1,5 @@
 ---
-title: Self-writings
+title: .
 type: docs
 math: false
 date: 2025-01-01
@@ -7,6 +7,6 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
-See https://sites.google.com/view/henryshi/more
+
 
 
