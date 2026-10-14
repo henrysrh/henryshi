@@ -15,7 +15,7 @@ sections:
       title: '📚 Selected Papers'
       subtitle: ''
       text: |-
-        1. See https://sites.google.com/view/henryshi/research
+        1. .
 
 
 
@@ -27,7 +27,7 @@ sections:
       title: '📚 Working Papers'
       subtitle: ''
       text: |-
-        1.  See https://sites.google.com/view/henryshi/research 
+        1.  .
     design:
       view: citation
 
